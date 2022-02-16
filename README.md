@@ -62,5 +62,4 @@
 [//]: # (</div>)
 
 ![Snake animation](https://github.com/4slan-g/4slan-g/blob/output/github-contribution-grid-snake.svg)
-![Snake gif](https://github.com/4slan-g/4slan-g/blob/output/github-contribution-grid-snake.gif)
 </div>
