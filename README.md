@@ -61,8 +61,12 @@
 
 [//]: # (</div>)
 
+<style>
+    :root {
+    --ce: transparent;
+    --c0: transparent;
+    }
+</style>   
 
---ce: transparent;
---c0: transparent;
 ![Snake animation](https://github.com/4slan-g/4slan-g/blob/output/github-contribution-grid-snake.svg)
 </div>
