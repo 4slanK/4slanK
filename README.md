@@ -21,16 +21,11 @@
 ##
 
 <div>
-<style>
-:root{
-    @media(prefers-color-scheme: dark){
-    
-    }
-}
-</style>
-    
-
-
+<svg>
+    <style>
+       :root{}@media(prefers-color-scheme: dark){:root{}}
+    </style>
+</svg>
 
 
 [//]: # (<div>)
