@@ -1,9 +1,9 @@
 ## Aslan Kelvin
 
 <div align="center">
-  <a href="https://github.com/4slan-g">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4slan-g&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4slan-g&layout=compact&langs_count=7&theme=vue-dark"/>
+  <a href="https://github.com/4slanK">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4slanK&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4slanK&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
 
@@ -62,5 +62,5 @@
 
 [//]: # (</div>)
 
-![Snake animation](https://github.com/4slan-g/4slan-g/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/4slanK/4slanK/blob/output/github-contribution-grid-snake.svg)
 </div>
